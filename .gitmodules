@@ -1,0 +1,6 @@
+[submodule "4-Homework/4-Homework/2-Exercise/li_slam_ros2"]
+	path = 4-Homework/4-Homework/2-Exercise/li_slam_ros2
+	url = https://github.com/rsasaki0109/li_slam_ros2.git
+[submodule "4-Homework/2-Exercise/li_slam_ros2"]
+	path = 4-Homework/2-Exercise/li_slam_ros2
+	url = https://github.com/rsasaki0109/li_slam_ros2.git
